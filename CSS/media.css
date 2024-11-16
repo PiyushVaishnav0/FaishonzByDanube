@@ -1,0 +1,358 @@
+@media only screen and (min-width: 0px) and (max-width: 567px) {
+    nav {
+        visibility: hidden;
+    }
+    .navLogo {
+        width: 35%;
+        visibility: visible;
+    }
+    #MobileShow {
+        visibility: visible;
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileNav {
+        margin-left: -1700px;
+        visibility: visible;
+    }
+    #MobileHide {
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileEnquiry {
+        width: 40%;
+    }
+    .DanubeLeft {
+        width: 80%;
+    }
+    .DanubeRight {
+        width: 80%;
+    }
+    .Gallery1 {
+        width: 100%;
+    }
+    .Gallery2 {
+        width: 100%;
+    }
+    .Gallery3 {
+        width: 100%;
+    }
+    .V1 {
+        width: 50%;
+    }
+    .F1 {
+        width: 60%;
+        padding: 25px 0px;
+    }
+    .C00 {
+        width: 60%;
+    }
+    .Click01 {
+        width: 80%;
+    }
+    .Click02 {
+        width: 80%;
+    }
+    .Click03 {
+        width: 80%;
+    }
+    #LocationMap {
+        margin-top: 2500px;
+    }
+    .InquiryToday_Img {
+        width: 50%;
+    }
+    .InquiryTodayForm {
+        width: 100%;
+    }
+    .Footer_left {
+        width: 100%;
+    }
+    .Footer_Right {
+        width: 100%;
+        margin: 50px 0px;
+    }
+    .Footer_Left_Footer {
+        font-size: 16px;
+        color: white;
+    }
+}
+@media only screen and (min-width: 567px) and (max-width: 767px) {
+    nav {
+        visibility: hidden;
+    }
+    .navLogo {
+        width: 30%;
+        visibility: visible;
+    }
+    #MobileShow {
+        visibility: visible;
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileNav {
+        margin-left: -1750px;
+        visibility: visible;
+    }
+    #MobileHide {
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileEnquiry {
+        width: 35%;
+    }
+    .DanubeLeft {
+        width: 80%;
+    }
+    .DanubeRight {
+        width: 80%;
+    }
+    .Gallery1 {
+        width: 80%;
+    }
+    .Gallery2 {
+        width: 80%;
+    }
+    .Gallery3 {
+        width: 80%;
+    }
+    .V1 {
+        width: 30%;
+    }
+    .F1 {
+        width: 50%;
+        padding: 25px 0px;
+    }
+    .C00 {
+        width: 40%;
+    }
+    .Click01 {
+        width: 50%;
+    }
+    .Click02 {
+        width: 50%;
+    }
+    .Click03 {
+        width: 50%;
+    }
+    #LocationMap {
+        margin-top: 1500px;
+    }
+    .InquiryToday_Img {
+        width: 45%;
+    }
+    .InquiryTodayForm {
+        width: 100%;
+    }
+    .Footer_left {
+        width: 100%;
+    }
+    .Footer_Right {
+        width: 100%;
+        margin: 50px 0px;
+    }
+    .Footer_Left_Footer {
+        font-size: 16px;
+        color: white;
+    }
+}
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    nav {
+        visibility: hidden;
+    }
+    .navLogo {
+        width: 25%;
+        visibility: visible;
+    }
+    #MobileShow {
+        visibility: visible;
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileNav {
+        visibility: visible;
+    }
+    #MobileHide {
+        border: 1px solid black;
+        padding: 5px 10px;
+        right: 0px;
+    }
+    .MobileEnquiry {
+        width: 30%;
+    }
+    .DanubeLeft {
+        width: 80%;
+    }
+    .DanubeRight {
+        width: 80%;
+    }
+    .Gallery1 {
+        width: 50%;
+    }
+    .Gallery2 {
+        width: 50%;
+    }
+    .Gallery3 {
+        width: 50%;
+    }
+    .V1 {
+        width: 30%;
+    }
+    .F1 {
+        width: 40%;
+        padding: 25px 0px;
+    }
+    .C00 {
+        width: 30%;
+    }
+    .Click01 {
+        width: 35%;
+    }
+    .Click02 {
+        width: 35%;
+    }
+    .Click03 {
+        width: 35%;
+    }
+    #LocationMap {
+        margin-top: 1000px;
+    }
+    .InquiryToday_Img {
+        width: 30%;
+    }
+    .InquiryTodayForm {
+        width: 80%;
+    }
+    .Footer_ {
+        justify-content: center;
+        align-items: center;
+    }
+    .Footer_left {
+        width: 80%;
+        margin: auto;
+    }
+    .Footer_Right {
+        width: 80%;
+        margin: 50px auto;
+    }
+    .Footer_Left_Footer {
+        font-size: 20px;
+        color: white;
+    }
+}
+@media only screen and (min-width: 991px) and (max-width: 1200px) {
+    .navLogo {
+        width: 10%;
+    }
+    .navMenu {
+        width: 70%;
+    }
+    .navMenu>ul>li {
+        margin: 0px 10px;
+    }
+    .navEnquiry {
+        width: 15%;
+        font-size: 20px;
+    }
+    .navAnimation {
+        width: 15%;
+        font-size: 16px;
+    }
+    .DanubeLeft {
+        width: 80%;
+    }
+    .DanubeRight {
+        width: 80%;
+    }
+    .Gallery1 {
+        width: 50%;
+    }
+    .Gallery2 {
+        width: 50%;
+    }
+    .Gallery3 {
+        width: 50%;
+    }
+    .V1 {
+        width: 20%;
+    }
+    .F1 {
+        width: 30%;
+        padding: 25px 0px;
+    }
+    .C00 {
+        width: 30%;
+    }
+    .Click01 {
+        width: 20%;
+    }
+    .Click02 {
+        width: 20%;
+    }
+    .Click03 {
+        width: 20%;
+    }
+    #LocationMap {
+        margin-top: 1000px;
+    }
+    .InquiryToday_Img {
+        width: 30%;
+    }
+    .InquiryTodayForm {
+        width: 80%;
+    }
+    .Footer_left {
+        width: 100%;
+    }
+    .Footer_Right {
+        width: 100%;
+        margin: 50px 0px;
+    }
+    .Footer_Left_Footer {
+        font-size: 20px;
+        color: white;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    .DanubeLeft {
+        width: 80%;
+    }
+    .DanubeRight {
+        width: 80%;
+    }
+    .Gallery1 {
+        width: 50%;
+    }
+    .Gallery2 {
+        width: 50%;
+    }
+    .Gallery3 {
+        width: 50%;
+    }
+    .Footer_left {
+        width: 20%;
+    }
+    .Footer_Right {
+        width: 60%;
+    }
+    .Footer_Left_Footer {
+        font-size: 20px;
+        color: white;
+    }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+    .Gallery1 {
+        width: 50%;
+    }
+    .Gallery2 {
+        width: 50%;
+    }
+    .Gallery3 {
+        width: 50%;
+    }
+}
